@@ -35,6 +35,7 @@ namespace PracticaPildorasInformaticas
             }
             while (aleatorio != minumero);
             Console.WriteLine($"Correcto!! Has encontrado el numero en {intentos} intentos");
+            Console.WriteLine("Primera pagina");
         }
     }
 }
