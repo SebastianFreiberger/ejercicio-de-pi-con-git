@@ -1,0 +1,16 @@
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\bin\Debug\net5.0\PracticaPildorasInformaticas.exe
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\bin\Debug\net5.0\PracticaPildorasInformaticas.deps.json
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\bin\Debug\net5.0\PracticaPildorasInformaticas.runtimeconfig.json
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\bin\Debug\net5.0\PracticaPildorasInformaticas.runtimeconfig.dev.json
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\bin\Debug\net5.0\PracticaPildorasInformaticas.dll
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\bin\Debug\net5.0\ref\PracticaPildorasInformaticas.dll
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\bin\Debug\net5.0\PracticaPildorasInformaticas.pdb
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\obj\Debug\net5.0\PracticaPildorasInformaticas.csproj.AssemblyReference.cache
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\obj\Debug\net5.0\PracticaPildorasInformaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\obj\Debug\net5.0\PracticaPildorasInformaticas.AssemblyInfoInputs.cache
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\obj\Debug\net5.0\PracticaPildorasInformaticas.AssemblyInfo.cs
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\obj\Debug\net5.0\PracticaPildorasInformaticas.csproj.CoreCompileInputs.cache
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\obj\Debug\net5.0\PracticaPildorasInformaticas.dll
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\obj\Debug\net5.0\ref\PracticaPildorasInformaticas.dll
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\obj\Debug\net5.0\PracticaPildorasInformaticas.pdb
+C:\Users\Seba\source\repos\PracticaPildorasInformaticas\PracticaPildorasInformaticas\obj\Debug\net5.0\PracticaPildorasInformaticas.genruntimeconfig.cache
